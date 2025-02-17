@@ -132,3 +132,5 @@ You can verify the configuration using the following commands:
   ```
 
 This configuration will set up the management interface with a static IP and the provider interface without an IP address, as required.
+
+( generated using DeepSeek AI)
